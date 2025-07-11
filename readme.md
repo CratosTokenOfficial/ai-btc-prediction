@@ -192,16 +192,3 @@ cd ai-service && python -m pytest tests/
 3. Commit changes
 4. Push to branch
 5. Open Pull Request
-
-## License
-
-MIT License - see LICENSE file for details
-
-## Contact
-
-- GitHub: https://github.com/CratosTokenOfficial
-- Email: contact@cratostoken.com
-
-## Disclaimer
-
-Educational and research purposes only. Cryptocurrency trading involves risk.
